@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#
+# *** Autor de la API ***
+# Ajith Joseph.
 # lovecalc: script que utiliza una api, la cual mide la compatibilidad de 2 personas segun el nombre.
 # By Blackster.
 
